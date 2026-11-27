@@ -1,0 +1,14 @@
+Task 2. Variant 2.
+
+Orders in February 1991: 5.
+
+Confirmed department cities:
+CHICAGO
+NEW-YORK
+
+MARTIN - CHICAGO
+PETERS - NEW-YORK
+
+TURNER appears in query4.txt but is missing
+from query1.txt. His department city
+cannot be determined from the available data.
