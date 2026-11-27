@@ -1,0 +1,4 @@
+﻿Directories without public access:
+private1
+private2
+Total: 2
